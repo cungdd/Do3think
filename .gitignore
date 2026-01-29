@@ -1,0 +1,12 @@
+.pytest_cache/
+__pycache__/
+*.pyc
+.env
+.vscode/
+runtime.zip
+venv310
+*.md
+venv36
+resources
+test
+venv311

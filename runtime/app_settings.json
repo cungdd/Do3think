@@ -1,0 +1,40 @@
+{
+    "detect": {
+        "model_path": null,
+        "model_conf": 50,
+        "active_index": 0,
+        "active_name": "Kiểm màu dây",
+        "panel": {
+            "name": {
+                "1": "màu 1",
+                "2": "màu 2",
+                "3": "màu 3"
+            },
+            "colors": [],
+            "sort_direction": "X"
+        },
+        "thresh_config": {
+            "roi": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "is_roi": false,
+            "bright_thresh": 100,
+            "is_brighter": true
+        },
+        "plot_config": {
+            "show_box": true,
+            "show_conf": true,
+            "show_label": true,
+            "label_pos": [
+                0,
+                0
+            ],
+            "font_size": 3,
+            "line_width": 3
+        }
+    },
+    "protocol": {}
+}
