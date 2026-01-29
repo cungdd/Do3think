@@ -138,7 +138,3 @@ sudo apt-get install libxcb-xinerama0
 ```bash
 export PYTHONPATH="${PYTHONPATH}:$(pwd)"
 ```
-
-## Liên hệ & Hỗ trợ
-
-Để báo lỗi hoặc đóng góp, vui lòng tạo issue hoặc pull request.
